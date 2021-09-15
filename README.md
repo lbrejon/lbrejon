@@ -1,5 +1,5 @@
 ### Welcome to my GitHub profile 👋
-<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/56866008/133440379-c0b1e3cc-62e3-4a00-b4ae-7c721a5e489d.gif">
+<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/56866008/133479879-77c611ef-bb46-450c-afa6-c07fab814869.gif">
 I'm a french student in the final year at the engineering school ENSEIRB-MATMECA. Here, you could find my personal and academic projects! I discovered artificial intelligence during an academic project and since that day, I love it! :heart_eyes: 
 
 - :computer: I’m currently working on the project **Image aesthetics rating** using deep learning models.
