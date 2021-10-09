@@ -2,13 +2,13 @@
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/56866008/133479879-77c611ef-bb46-450c-afa6-c07fab814869.gif">
 I'm a french student in the final year at the engineering school ENSEIRB-MATMECA. Here, you could find my personal and academic projects! I discovered artificial intelligence during an academic project and since that day, I love it! :heart_eyes: 
 
-- :computer: I’m currently working on the existant project **"ChatBot"** using NLP concepts and two new projects: **"Scrapping jobs on websites"** and **"Building a modern web application on AWS"**.
+- :computer: I’m currently working on the existant project **"ChatBot"** using NLP concepts and two new projects: **"Web scraping jobs"** and **"Building a modern web application on AWS"**.
 
 - 💬 Please feel free to ask me about projects if there any issue or lack of information.
 
 - :mag: I’m looking for an internship as a datascientist, starting from February 2022 (5-6 months) in Europe (Switzerland, Luxembourg, Belgium, Netherlands, Denmark, Italy, Germany).
 
-- 📝 Checkout my resume [here](https://github.com/lbrejon/lbrejon/files/7232096/Resume_BREJON_Louis_v5.pdf)
+- 📝 Checkout my resume [here](https://github.com/lbrejon/lbrejon/files/7316182/Resume_BREJON_Louis.pdf)
 
 <!--
 **lbrejon/lbrejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
