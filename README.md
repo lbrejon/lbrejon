@@ -8,7 +8,7 @@ I'm a french student in the final year at the engineering school ENSEIRB-MATMECA
 
 - :mag: I’m looking for an internship as a datascientist, starting from February 2022 (5-6 months) in Europe (Switzerland, Luxembourg, Belgium, Netherlands, Denmark, Italy, Germany).
 
-- 📝 Checkout my resume [here](https://github.com/lbrejon/lbrejon/files/7332997/Resume_BREJON_Louis.pdf)
+- 📝 Checkout my resume [here](https://github.com/lbrejon/lbrejon/files/7339845/Resume_BREJON_Louis.pdf)
 
 <!--
 **lbrejon/lbrejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
