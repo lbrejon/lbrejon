@@ -2,9 +2,11 @@
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/56866008/133479879-77c611ef-bb46-450c-afa6-c07fab814869.gif">
 I'm a french student in the final year at the engineering school ENSEIRB-MATMECA. Here, you could find my personal and academic projects! I discovered artificial intelligence during an academic project and since that day, I love it! :heart_eyes: 
 
-- :computer: I’m currently working on the existant project **"ChatBot"** using NLP concepts and the new projects: **"Building a modern web application on AWS"**.
+- :computer: I’m currently working on the existant project **"[ChatBot](https://github.com/lbrejon/ChatBot)"** using NLP concepts and the new projects: **"[Detection and localization of Asian hornets by fine-tunned CNN](https://github.com/lbrejon/Localization-of-Asian-hornets-by-fine-tunned-CNN)"**.
 
-- 🔭: Project recently performed: **"Web scraping jobs"**
+- 🔭: Project recently performed: 
+    - **"Web scraping jobs"**
+    - **"Web scraping jobs"**
 
 - 💬 Please feel free to ask me about projects if there any issue or lack of information.
 
