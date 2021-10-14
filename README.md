@@ -10,7 +10,8 @@ I'm a french student in the final year at the engineering school ENSEIRB-MATMECA
 
 - :mag: I’m looking for an internship as a **Junior Data Scientist**, starting from February 2022 (5-6 months) in Europe either in Ile-de-France (France) or abroad (Switzerland, Luxembourg, Belgium, Netherlands, Denmark, Italy, Germany).
 
-- 📝 Checkout my resume [here](https://github.com/lbrejon/lbrejon/files/7340299/Resume_BREJON_Louis.pdf)
+- 📝 Checkout my resume [here](https://github.com/lbrejon/lbrejon/files/7349221/Resume_BREJON_Louis.pdf)
+
 
 
 <!--
