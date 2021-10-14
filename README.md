@@ -1,12 +1,14 @@
 ### Welcome to my GitHub profile 👋
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/56866008/133479879-77c611ef-bb46-450c-afa6-c07fab814869.gif">
-I'm a french student in the final year at the engineering school ENSEIRB-MATMECA. Here, you could find my personal and academic projects! I discovered artificial intelligence during an academic project and since that day, I love it! :heart_eyes: 
+I'm a french student in the final year at the engineering school ENSEIRB-MATMECA. Here, you could find my personal and academic projects! I discovered artificial intelligence during an academic project and since that day, I love it! :heart_eyes:
 
-- :computer: I’m currently working on the existant project **"[ChatBot](https://github.com/lbrejon/ChatBot)"** using NLP concepts and the new projects: **"[Detection and localization of Asian hornets by fine-tunned CNN](https://github.com/lbrejon/Localization-of-Asian-hornets-by-fine-tunned-CNN)"**.
+
+- :computer: I’m currently working on the existant project **"[ChatBot](https://github.com/lbrejon/ChatBot)"** using NLP concepts.
+<!-- -  and the new projects: **"[Detection and localization of Asian hornets by fine-tunned CNN](https://github.com/lbrejon/Localization-of-Asian-hornets-by-fine-tunned-CNN)"**. -->
 
 - 🔭: Project recently performed: 
-    - **"Web scraping jobs"**
-    - **"Web scraping jobs"**
+    - 2021/10/10 **"[Web scraping jobs](https://github.com/lbrejon/Web-scraping-jobs)"**
+    - 2021/04/15 **"[Detection and localization of Asian hornets with pre-trained CNN](https://github.com/lbrejon/Localization-of-Asian-hornets-with-pre-trained-CNN)"**
 
 - 💬 Please feel free to ask me about projects if there any issue or lack of information.
 
