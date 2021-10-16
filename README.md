@@ -3,7 +3,7 @@
 I'm a french student in the final year at the engineering school ENSEIRB-MATMECA. Here, you could find my personal and academic projects! I discovered artificial intelligence during an academic project and since that day, I love it! :heart_eyes:
 
 
-- :computer: I’m currently working on a new project **"Generation of realistic faces images using GANs and VAEs"** 
+- :computer: I’m currently working on a new project **"Generation of realistic faces images using GANs and VAEs"**.
 <!-- - and the existant project **"[ChatBot](https://github.com/lbrejon/ChatBot)"** using NLP concepts. -->
 <!-- -  and the new projects: **"[Detection and localization of Asian hornets by fine-tunned CNN](https://github.com/lbrejon/Localization-of-Asian-hornets-by-fine-tunned-CNN)"**. -->
 
