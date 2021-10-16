@@ -6,7 +6,7 @@ I'm a french student in the final year at the engineering school ENSEIRB-MATMECA
 - :computer: I’m currently working on a new project **"Generation of realistic faces images using GANs and VAEs"** and the existant project **"[ChatBot](https://github.com/lbrejon/ChatBot)"** using NLP concepts.
 <!-- -  and the new projects: **"[Detection and localization of Asian hornets by fine-tunned CNN](https://github.com/lbrejon/Localization-of-Asian-hornets-by-fine-tunned-CNN)"**. -->
 
-- 🔭: Project recently performed: 
+- 🔭: Projects recently performed: 
     - 2021/10/10 **"[Web-scraping-jobs](https://github.com/lbrejon/Web-scraping-jobs)"**
     - 2021/04/15 **"[Localization-of-Asian-hornets-with-CNN-using-CAM](https://github.com/lbrejon/Localization-of-Asian-hornets-with-pre-trained-CNN)"**
 
