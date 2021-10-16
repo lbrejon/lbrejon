@@ -7,8 +7,8 @@ I'm a french student in the final year at the engineering school ENSEIRB-MATMECA
 <!-- -  and the new projects: **"[Detection and localization of Asian hornets by fine-tunned CNN](https://github.com/lbrejon/Localization-of-Asian-hornets-by-fine-tunned-CNN)"**. -->
 
 - 🔭: Project recently performed: 
-    - 2021/10/10 **"[Web scraping jobs](https://github.com/lbrejon/Web-scraping-jobs)"**
-    - 2021/04/15 **"[Detection and localization of Asian hornets with pre-trained CNN](https://github.com/lbrejon/Localization-of-Asian-hornets-with-pre-trained-CNN)"**
+    - 2021/10/10 **"[Web-scraping-jobs](https://github.com/lbrejon/Web-scraping-jobs)"**
+    - 2021/04/15 **"[Localization-of-Asian-hornets-with-CNN-using-CAM](https://github.com/lbrejon/Localization-of-Asian-hornets-with-pre-trained-CNN)"**
 
 - 💬 Please feel free to ask me about projects if there any issue or lack of information.
 
