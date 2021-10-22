@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile 👋
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/56866008/133479879-77c611ef-bb46-450c-afa6-c07fab814869.gif">
-I'm a french student in the final year at the engineering school ENSEIRB-MATMECA. Here, you could find my personal and academic projects! I discovered artificial intelligence during an academic project and since that day, I love it! :heart_eyes:
+I'm a french student in the final year at the engineering school ENSEIRB-MATMECA. Here, you could find my personal and academic projects! I discovered artificial intelligence during an academic project and since that day, I keep working on it! :heart_eyes:
 
 
 - :computer: I’m currently working on a new project **"Generation of realistic faces images using GANs and VAEs"**.
