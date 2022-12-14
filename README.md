@@ -5,7 +5,7 @@
 
 - :computer: I’m currently working on 1 new project:
     <!-- - **"Generation of realistic faces images using GANs and VAEs"** -->
-    - **"Implementation of recommender systems (sports/accommodation/tourism) for Olympics Games Paris 2024"** 
+    - **"Implementation of recommender systems (sports/accommodation/tourism) for Olympic Games Paris 2024"** 
 <!-- - and the existant project **"[ChatBot](https://github.com/lbrejon/ChatBot)"** using NLP concepts. -->
 
 
